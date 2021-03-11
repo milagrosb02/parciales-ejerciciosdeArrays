@@ -1,0 +1,11 @@
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\bin\Debug\netcoreapp2.1\RecuperatorioGallo.deps.json
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\bin\Debug\netcoreapp2.1\RecuperatorioGallo.runtimeconfig.json
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\bin\Debug\netcoreapp2.1\RecuperatorioGallo.runtimeconfig.dev.json
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\bin\Debug\netcoreapp2.1\RecuperatorioGallo.dll
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\bin\Debug\netcoreapp2.1\RecuperatorioGallo.pdb
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\obj\Debug\netcoreapp2.1\RecuperatorioGallo.vbprojAssemblyReference.cache
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\obj\Debug\netcoreapp2.1\RecuperatorioGallo.vbproj.CoreCompileInputs.cache
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\obj\Debug\netcoreapp2.1\RecuperatorioGallo.AssemblyInfoInputs.cache
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\obj\Debug\netcoreapp2.1\RecuperatorioGallo.AssemblyInfo.vb
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\obj\Debug\netcoreapp2.1\RecuperatorioGallo.dll
+D:\visualstudio repos\parcial\RecuperatorioGallo\RecuperatorioGallo\obj\Debug\netcoreapp2.1\RecuperatorioGallo.pdb

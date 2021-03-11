@@ -1,0 +1,10 @@
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Ajedrez\bin\Debug\Parcial Ajedrez.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Ajedrez\obj\Debug\Parcial Ajedrez.vbprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Ajedrez\obj\Debug\Parcial_Ajedrez.Resources.resources
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Ajedrez\obj\Debug\Parcial Ajedrez.vbproj.GenerateResource.Cache
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Ajedrez\obj\Debug\Parcial Ajedrez.xml
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Ajedrez\bin\Debug\Parcial Ajedrez.exe
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Ajedrez\bin\Debug\Parcial Ajedrez.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Ajedrez\bin\Debug\Parcial Ajedrez.xml
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Ajedrez\obj\Debug\Parcial Ajedrez.exe
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Ajedrez\obj\Debug\Parcial Ajedrez.pdb

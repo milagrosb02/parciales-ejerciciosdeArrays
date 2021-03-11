@@ -1,0 +1,10 @@
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Practica 2.1\bin\Debug\Practica 2.1.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Practica 2.1\bin\Debug\Practica 2.1.exe
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Practica 2.1\bin\Debug\Practica 2.1.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Practica 2.1\bin\Debug\Practica 2.1.xml
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Practica 2.1\obj\Debug\Practica 2.1.vbprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Practica 2.1\obj\Debug\Practica_2._1.Resources.resources
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Practica 2.1\obj\Debug\Practica 2.1.vbproj.GenerateResource.Cache
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Practica 2.1\obj\Debug\Practica 2.1.exe
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Practica 2.1\obj\Debug\Practica 2.1.xml
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Practica 2.1\obj\Debug\Practica 2.1.pdb

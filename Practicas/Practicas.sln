@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Practica 1", "Practica 1\Practica 1.vbproj", "{A75FD036-5F26-4B10-B10E-F95923786EB0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Practica 2", "Practica 2\Practica 2.vbproj", "{58C45638-E19B-481B-8E1E-5BB77C630876}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Parcial Roperia", "Parcial Roperia\Parcial Roperia.vbproj", "{F3FF8394-DA9D-444C-9E8E-3F8DF374454F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Parcial Ajedrez", "Parcial Ajedrez\Parcial Ajedrez.vbproj", "{6EDF13E0-C9E8-4A44-B186-EC5C1428775D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PagosVencidos", "PagosVencidos\PagosVencidos.vbproj", "{1E7F18D3-44F6-4A98-B7F5-F571EE668BB7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Practica 3", "Practica 3\Practica 3.vbproj", "{5F78B7B1-1024-4F2B-9FFA-93A39E0C16F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A75FD036-5F26-4B10-B10E-F95923786EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75FD036-5F26-4B10-B10E-F95923786EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75FD036-5F26-4B10-B10E-F95923786EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75FD036-5F26-4B10-B10E-F95923786EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C45638-E19B-481B-8E1E-5BB77C630876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C45638-E19B-481B-8E1E-5BB77C630876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C45638-E19B-481B-8E1E-5BB77C630876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C45638-E19B-481B-8E1E-5BB77C630876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FF8394-DA9D-444C-9E8E-3F8DF374454F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FF8394-DA9D-444C-9E8E-3F8DF374454F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FF8394-DA9D-444C-9E8E-3F8DF374454F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FF8394-DA9D-444C-9E8E-3F8DF374454F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDF13E0-C9E8-4A44-B186-EC5C1428775D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDF13E0-C9E8-4A44-B186-EC5C1428775D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDF13E0-C9E8-4A44-B186-EC5C1428775D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDF13E0-C9E8-4A44-B186-EC5C1428775D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7F18D3-44F6-4A98-B7F5-F571EE668BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7F18D3-44F6-4A98-B7F5-F571EE668BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7F18D3-44F6-4A98-B7F5-F571EE668BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7F18D3-44F6-4A98-B7F5-F571EE668BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F78B7B1-1024-4F2B-9FFA-93A39E0C16F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F78B7B1-1024-4F2B-9FFA-93A39E0C16F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F78B7B1-1024-4F2B-9FFA-93A39E0C16F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F78B7B1-1024-4F2B-9FFA-93A39E0C16F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Roperia\bin\Debug\Parcial Roperia.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Roperia\obj\Debug\Parcial Roperia.vbprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Roperia\obj\Debug\Parcial_Roperia.Resources.resources
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Roperia\obj\Debug\Parcial Roperia.vbproj.GenerateResource.Cache
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Roperia\obj\Debug\Parcial Roperia.xml
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Roperia\bin\Debug\Parcial Roperia.exe
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Roperia\bin\Debug\Parcial Roperia.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Roperia\bin\Debug\Parcial Roperia.xml
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Roperia\obj\Debug\Parcial Roperia.exe
+M:\Operaciones Funciones Varias (Continuacion)\Practicas\Parcial Roperia\obj\Debug\Parcial Roperia.pdb
